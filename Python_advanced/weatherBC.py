@@ -2,7 +2,7 @@ import requests
 import json
 
 cityname = "Seoul"
-APIkey = "7a2bd13747c45e0c864c30635bcda70f"
+APIkey = "#####################"
 lang = "kr"
 units = "metric"
 
